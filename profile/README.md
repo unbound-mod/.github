@@ -9,5 +9,4 @@
    A discord client aimed at giving the user control, stability, a beautiful appearance, and freeing them from the shackles of other client modifications.
 </p>
 
-
 ---
