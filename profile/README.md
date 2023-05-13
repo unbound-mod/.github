@@ -6,5 +6,5 @@
    Unbound
 </h3>
 <p align='center'>
-   A discord client aimed at giving the user control, stability, a beautiful appearance, and freeing them from the shackles of other client modifications.
+   Discord mobile client aimed at providing the user control, stability and customizability.
 </p>
